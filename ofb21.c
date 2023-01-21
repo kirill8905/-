@@ -7,7 +7,7 @@ main()
 
   ptr = &a;
 
-    printf("a = %d\n\n", a);
+    printf("\na = %d\n\n", a);
 
        for (i = 1; i <= 4; i++)
            {
